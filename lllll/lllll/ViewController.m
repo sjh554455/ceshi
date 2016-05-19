@@ -16,6 +16,18 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    NSLog(@"henhao");
+    NSLog(@"henhao");
+    NSLog(@"henhao");
+    NSLog(@"henhao");
+    NSLog(@"henhao");
+    NSLog(@"henhao");
+    NSLog(@"henhao");
+    NSLog(@"henhao");
+    NSLog(@"henhao");
+    NSLog(@"henhao");
+    NSLog(@"henhao");
+    NSLog(@"henhao");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
